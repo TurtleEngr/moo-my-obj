@@ -1,3 +1,3 @@
 # moo-my-obj
 
-Object that I created.
+Objects that I created.
